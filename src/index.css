@@ -1,0 +1,54 @@
+body {
+  display: grid;
+  grid-template-columns: 70% 30%;
+}
+
+/**  MAIN */
+main{
+  border: 1px solid blue;
+  display: flex;
+  flex-direction: column;
+}
+
+.menu-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.main-cards-container{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(auto, 100px));
+  gap: 2rem;
+  justify-content: center;
+}
+
+.main-food-card{
+  border: 1px solid red;
+
+}
+
+.main-food-card img {
+  width: 100%;
+}
+
+/** ASIDE SHOPPING CART */
+aside{
+  border: 1px solid aquamarine;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cart-card{
+  background-color: gainsboro;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  margin-top: 0.5rem;
+
+}
+
+.cart-card div{
+  border: 1px solid red;
+
+}

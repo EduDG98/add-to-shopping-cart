@@ -1,0 +1,99 @@
+[
+    {
+        "name": "SAUTÉED VEGETABLES",
+        "price": "9.99",
+        "coin": "€",
+        "image": "/assets/img/verduras.jpg"
+    },
+    {
+        "name": "SUNDY ROAST",
+        "price": "18.99",
+        "coin": "€",
+        "image": "/assets/img/ternera.jpg"
+    },{
+        "name": "CHEESE CAKE",
+        "price": "6.99",
+        "coin": "€",
+        "image": "/assets/img/tarta de queso.jpg"
+    },{
+        "name": "CHERRY PIE",
+        "price": "6.99",
+        "coin": "€",
+        "image": "/assets/img/tarta de cerezas.jpg"
+    },{
+        "name": "SALMON",
+        "price": "14.99",
+        "coin": "€",
+        "image": "/assets/img/salmon.jpg"
+    },{
+        "name": "RAMEN",
+        "price": "17.99",
+        "coin": "€",
+        "image": "/assets/img/ramen.jpg"
+    },{
+        "name": "CHICKEN WINGS",
+        "price": "11.99",
+        "coin": "€",
+        "image": "/assets/img/pollo.jpg"
+    },{
+        "name": "CHICKEN WITH FRIES",
+        "price": "9.99",
+        "coin": "€",
+        "image": "/assets/img/pollo con papas.jpg"
+    },{
+        "name": "POKE BOWL",
+        "price": "14.99",
+        "coin": "€",
+        "image": "/assets/img/poke bowl.jpg"
+    },{
+        "name": "PIZZA",
+        "price": "11.99",
+        "coin": "€",
+        "image": "/assets/img/pizza.jpg"
+    },{
+        "name": "HAKE",
+        "price": "15.99",
+        "coin": "€",
+        "image": "/assets/img/hake.jpg"
+    },{
+        "name": "MUSSELS",
+        "price": "13.99",
+        "coin": "€",
+        "image": "/assets/img/mussels.jpg"
+    },{
+        "name": "LASAÑA",
+        "price": "11.99",
+        "coin": "€",
+        "image": "/assets/img/lasaña.jpg"
+    },{
+        "name": "HAMBURGUER",
+        "price": "11.99",
+        "coin": "€",
+        "image": "/assets/img/hamburguer.jpg"
+    },{
+        "name": "SPAGHETTI",
+        "price": "11.99",
+        "coin": "€",
+        "image": "/assets/img/spaguethi.jpg"
+    },{
+        "name": "AVOCADO",
+        "price": "9.99",
+        "coin": "€",
+        "image": "/assets/img/avocado.jpg"
+    },{
+        "name": "FRUIT SALAD",
+        "price": "9.99",
+        "coin": "€",
+        "image": "/assets/img/fruit salad.jpg"
+    },{
+        "name": "PORK",
+        "price": "11.99",
+        "coin": "€",
+        "image": "/assets/img/pork.jpg"
+    },{
+        "name": "STEAK",
+        "price": "15.99",
+        "coin": "€",
+        "image": "/assets/img/steak.jpg"
+    }
+]
