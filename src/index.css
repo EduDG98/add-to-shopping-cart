@@ -17,7 +17,7 @@ main{
 
 .main-cards-container{
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(auto, 100px));
+  grid-template-columns: repeat(auto-fill, minmax(auto, 200px));
   gap: 2rem;
   justify-content: center;
 }
@@ -42,9 +42,14 @@ aside{
 .cart-card{
   background-color: gainsboro;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 0.5fr 1fr 1fr;
+  grid-template-rows: 1fr 0.25fr;
   margin-top: 0.5rem;
+
+}
+
+.cart-card img {
+  width: 100%;
 
 }
 
